@@ -1,0 +1,14 @@
+{
+	"id": "ExampleDeck",
+	"name": "Example Deck",
+	"display_name": "Example Deck",
+	"author": ["your-name"],
+	"description": "Reference example: a deck with +4 hand size, -1 hand, -1 discard.",
+	"prefix": "exdeck",
+	"main_file": "main.lua",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0301a)",
+		"Lovely (>=0.6.0)"
+	]
+}

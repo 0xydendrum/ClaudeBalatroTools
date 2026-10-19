@@ -1,0 +1,5 @@
+# Built from each user's own copy of Balatro by tools/build_art.ps1.
+# Never commit these: they are derived from the game's art.
+_vanilla/
+art_kit/*.png
+examples/*/assets/

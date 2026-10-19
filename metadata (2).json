@@ -1,0 +1,14 @@
+{
+	"id": "ExampleFusion",
+	"name": "Example Fusion",
+	"display_name": "Example Fusion",
+	"author": ["your-name"],
+	"description": "Reference example: one Fusion Jokers fusion plus a test deck.",
+	"prefix": "exfuse",
+	"main_file": "main.lua",
+	"version": "0.1.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0301a)",
+		"FusionJokers"
+	]
+}
